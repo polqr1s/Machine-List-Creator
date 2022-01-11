@@ -1,3 +1,5 @@
+#Takes a machine name and a range of numbers, then outputs a list of machine IDs with the provided range and name
+
 
 def MachineList():
     machinePrefix = input("Enter the prefix of the machine's ID (ex. bccx, bcpsm, bcwsm)")
